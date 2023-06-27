@@ -1,0 +1,2 @@
+Here are some of the plots from our analysis the Final plots are different versions of a complete plot with all 6 setups that we looked at.
+The loose curves are these 6 setups on separate plots. Finally, the old folder contains some plots we made with data that turned out to be biased.
